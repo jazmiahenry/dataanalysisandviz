@@ -1,1 +1,3 @@
 # dataanalysisandviz
+
+{% include figure.html %}
