@@ -43,6 +43,11 @@ This is an exercise in using plotly to create interactive plots on stock perform
 <img width="1046" alt="pricesinter" src="https://user-images.githubusercontent.com/48301423/97910433-bb5fc080-1d17-11eb-84af-89a64e3e9edd.png">
 
 
+- Histogram Subplot
+
+<img width="938" alt="subplothistogram" src="https://user-images.githubusercontent.com/48301423/97910861-5a84b800-1d18-11eb-887a-4260573091cf.png">
+
+
 - Correlation Heatmap
 
 <img width="666" alt="corheatmap" src="https://user-images.githubusercontent.com/48301423/97910053-2957b800-1d17-11eb-893d-e1b997d21553.png">
