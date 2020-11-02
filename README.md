@@ -3,6 +3,7 @@
 **For best results, upload Data Analysis and Visualization Jupyter Notebook in Google Colab**
 
 This is an exercise in using plotly to create interactive plots on stock performance of eight stocks using the SNP 500 as a benchmark. 
+
 *For demonstration and educational purposes*
 
 ### A few features of the data analysis and viz repository:
