@@ -58,6 +58,8 @@ This is an exercise in using plotly to create interactive plots on stock perform
 
 <img width="1063" alt="plotlyffm" src="https://user-images.githubusercontent.com/48301423/97910519-daf6e900-1d17-11eb-8fc9-99fa0892e254.png">
 
+*Plot Zoomed In*
+
 <img width="1070" alt="plotlyffmzoom" src="https://user-images.githubusercontent.com/48301423/97910523-dcc0ac80-1d17-11eb-8ba7-0491e3652f62.png">
 
 
